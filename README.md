@@ -1,3 +1,2 @@
 # Me
- <script src="https://tryhackme.com/badge/820427"></script>
- 
+ <script src="https://tryhackme.com/badge/820427"> 
