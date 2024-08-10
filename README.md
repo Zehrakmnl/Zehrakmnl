@@ -13,14 +13,5 @@
 <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
 <a href="https://code.visualstudio.com/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-plain.svg" alt="visualstudio" width="40" height="40"/> </a>
 
-  
-<a href="https://github.com/Gurupreet">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zehrakmnl&theme=dracula&hide_langs_below=1" />
-</a>
-
-<a href="https://github.com/Gurupreet">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=Zehrakmnl&show_icons=true&theme=dracula&line_height=27" alt="**SEU NOME** github stats"/>
-</a>
-
 <br>
 
