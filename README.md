@@ -1,6 +1,5 @@
 # ME
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Zehrakmnl&label=Profile%20views&color=ba0bea&style=flat" alt="qpeckin" /> </p>
 
 
 <h3 align="left">Languages and Tools</h3>
